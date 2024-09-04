@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/potatowski/brazilcode/src"
+	"github.com/estrategiahq/brazilcode/src"
 )
 
 func TestCalculator(t *testing.T) {

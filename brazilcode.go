@@ -1,10 +1,10 @@
 package brazilcode
 
 import (
-	"github.com/potatowski/brazilcode/src/cnh"
-	"github.com/potatowski/brazilcode/src/cnpj"
-	"github.com/potatowski/brazilcode/src/cpf"
-	"github.com/potatowski/brazilcode/src/voterRegistration"
+	"github.com/estrategiahq/brazilcode/src/cnh"
+	"github.com/estrategiahq/brazilcode/src/cnpj"
+	"github.com/estrategiahq/brazilcode/src/cpf"
+	"github.com/estrategiahq/brazilcode/src/voterRegistration"
 )
 
 var (

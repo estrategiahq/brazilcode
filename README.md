@@ -3,25 +3,31 @@
 This is validator, generator and formats the brazil code as CPF and CNPJ
 
 > Formats to use
+
 - CPF
 - CNPJ
 - CNH
- - VoterRegistration(Título de Eleitor)
+- VoterRegistration(Título de Eleitor)
 
 ## Development
+
 Import package with command in shell
+
 ```shell
-$ go get github.com/potatowski/brazilcode
+$ go get github.com/estrategiahq/brazilcode
 ```
+
 In code just use the function with import
+
 > Example:
+
 ```code
 package main
 
 import (
 	"fmt"
 
-	"github.com/potatowski/brazilcode"
+	"github.com/estrategiahq/brazilcode"
 )
 
 func main() {
@@ -38,6 +44,7 @@ func main() {
 	fmt.Println(doc, docFormatted)
 }
 ```
+
 ## License
 
 The MIT License © 2023 João Vitor Lima da Rocha

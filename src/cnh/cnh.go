@@ -3,7 +3,7 @@ package cnh
 import (
 	"fmt"
 
-	"github.com/potatowski/brazilcode/src"
+	"github.com/estrategiahq/brazilcode/src"
 )
 
 var (

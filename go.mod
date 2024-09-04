@@ -1,3 +1,3 @@
-module github.com/potatowski/brazilcode
+module github.com/estrategiahq/brazilcode
 
 go 1.20
